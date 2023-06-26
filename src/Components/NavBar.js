@@ -22,7 +22,7 @@ export const NavBar = () => {
   return (
     <div className={color?'Header Header-bg':'Header'}>
         <Link to="/">
-            <h1>PortFolia</h1>
+            <h1>ReposiTory</h1>
         </Link>
         <ul className={click?"nav-menu active":"nav-menu"}>
             <li>

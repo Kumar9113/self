@@ -33,7 +33,7 @@ const footer = () => {
 
             <div className='rigth'> 
             <h4>About the company</h4>
-            <p>This is the Kumar Gogula,Web Developer.I am having more skills about the Web technology</p>
+            <p>As a MERN stack developer, I specialize in building web applications using MongoDB, Express.js, React, and Node.js. With expertise in both front-end and back-end development</p>
             <div className='social'>
             <FaFacebook size='20' style={{color:'#fff',marginRight:'2rem'
                 }}></FaFacebook >
@@ -41,7 +41,7 @@ const footer = () => {
             <FaTwitter size='20' style={{color:'#fff',marginRight:'2rem'
                 }}></FaTwitter >
 
-            <FaLinkedin size='20' style={{color:'#fff',marginRight:'2rem'
+            <FaLinkedin  size='20'  style={{color:'#fff',marginRight:'2rem'
                 }}></FaLinkedin >
 
             </div>
