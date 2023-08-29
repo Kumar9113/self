@@ -30,7 +30,7 @@ const Form = () => {
       
         <form onSubmit={submitHandler}>
             <label>Your Name</label>
-            <input type="text" name="username" value={username} placeholder='Username' onChange={onchange}></input>
+            <input type="text" name="username" value={username} placeholder='Name' onChange={onchange}></input>
             {/* <input type='text'name='username' value={username}  onClick={onchange} ></input> */}
             <label>Email</label>
             <input type="email" name="email" value={email} placeholder='Email' onChange={onchange}></input>
